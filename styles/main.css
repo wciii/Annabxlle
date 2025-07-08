@@ -1,0 +1,6 @@
+/* Add any custom styles here */
+.custom-gradient {
+    background: linear-gradient(to right, #000000, #434343);
+}
+
+/* Add any additional custom styles that can't be handled by Tailwind */ 
